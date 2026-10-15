@@ -97,4 +97,4 @@ Ideas, bug reports and pull requests are welcome. If you find something that doe
 
 ---
 
-<p align="center">Made with 🤍 for everyone who wants to type faster and code better.</p>
+Made with 🤍 for everyone who wants to type faster and code better.
