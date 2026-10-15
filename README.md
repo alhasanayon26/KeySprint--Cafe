@@ -92,15 +92,6 @@ cd YOUR-REPO
 # then open index.html in your browser
 ```
 
-### Publish your own copy with GitHub Pages
-
-1. Make sure the main file is named **`index.html`**.
-2. Go to **Settings → Pages** in your repository.
-3. Under **Source**, choose your main branch and the `/ (root)` folder.
-4. Save. Your site will appear at `https://YOUR-USERNAME.github.io/YOUR-REPO/`.
-
----
-
 ## 📝 Notes
 
 - **Your data stays on your device.** Progress, history and settings are stored in your browser's local storage. Clearing your browser data, or using **Settings → Reset**, will erase them. Use the CSV export to keep a copy of your history.
