@@ -4,8 +4,6 @@
 
 > *A little practice. A lot more speed.*
 
-🔗 **Live website:** `https://YOUR-USERNAME.github.io/YOUR-REPO/`
-
 ---
 
 ## ✨ What is KeySprint - Cafe?
