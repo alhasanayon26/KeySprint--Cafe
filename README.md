@@ -64,8 +64,7 @@ Open **KS Code** with the `</> KS Code` button in the top-right corner.
 - **Undo and redo**, syntax highlighting, code suggestions and error highlighting
 - **Ask AI chat:** ask coding questions, get code back, and insert it into your editor with one click. It also handles file attachments and images.
 - **Expand buttons (⤢)** on the code box, the output box and the Ask AI box. Each one can fill the whole editor area on phone, tablet and PC.
-- **Layouts:** Classic (2 columns) or Three columns (code, output, AI chat), with drag-to-resize panels
-- **Focus window** with its own full-screen mode for distraction-free coding
+- **Layouts:** Classic (2 columns) or Three columns (code, output, AI chat), with drag-to-resize online
 - **Autosave** and a prompt to save your work before closing
 - Wallpaper and glass styles (Normal, Frosted, Clear) that match the main site
 
@@ -73,21 +72,8 @@ Open **KS Code** with the `</> KS Code` button in the top-right corner.
 
 ## 🛠️ Getting started
 
-### Use it online
-
-Just open the live website link above.
-
-### Run it on your computer
-
-1. Download or clone this repository.
-2. Open `index.html` in any modern browser (Chrome, Edge, Firefox, Safari).
-
-That's all. There is nothing to install.
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
-# then open index.html in your browser
+### Use it from here- 
+https://alhasanayon26.github.io/KeySprint--Cafe/
 ```
 
 ## 📝 Notes
@@ -111,10 +97,4 @@ Ideas, bug reports and pull requests are welcome. If you find something that doe
 
 ---
 
-## 📄 License
-
-Add your license here (for example, MIT).
-
----
-
-<p align="center">Made with ❤️ for everyone who wants to type faster and code better.</p>
+<p align="center">Made with 🤍 for everyone who wants to type faster and code better.</p>
